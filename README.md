@@ -60,9 +60,8 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: [your email]
-- 🌐 Portfolio: [your portfolio link]
-- 💼 LinkedIn: [your linkedin]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardiandhika9938@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ardy__10)
 
 ---
 
