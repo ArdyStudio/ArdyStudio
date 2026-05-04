@@ -1,5 +1,5 @@
-# 💫 About Me:
-🧑‍💻 About Me<br>🎓 Bachelor's Degree in Informatics Engineering  <br>  Faculty of Computer Science, Esa Unggul University (2021–2026)<br>💼 Focus on: Artificial Intelligence, Frontend Development, Augmented Reality<br>🚀 Interested in developing smart and interactive applications<br>🌍 Based in Indonesia<br>
+# 💫 Hello Wordl, This is:
+🧑‍💻 Ardy Andhika Haydar<br>🎓 Bachelor's Degree in Informatics Engineering  <br>  Faculty of Computer Science, Esa Unggul University (2021–2026)<br>💼 Focus on: Artificial Intelligence, Frontend Development, Augmented Reality<br>🚀 Interested in developing smart and interactive applications<br>🌍 Based in Indonesia<br>
 
 
 ## 🛠️ Tech Stack
