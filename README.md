@@ -1,5 +1,4 @@
 <h1 align="center">Hello World 👋, this is Ardy Andhika Haydar</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 🎯 **AI Enthusiast | Frontend Developer | AR Developer**  
 💡 Passionate about building intelligent systems and immersive digital experiences.
